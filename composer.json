@@ -1,0 +1,16 @@
+{
+    "name": "serg/composer",
+    "autoload": {
+        "psr-4": {
+            "classes\\": "classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey",
+            "email": "84701382+Sergl82@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
